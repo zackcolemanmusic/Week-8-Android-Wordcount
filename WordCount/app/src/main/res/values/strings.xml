@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WordCount</string>
+    <string name="Text_to_count">I have how many words?</string>
+    <string name="Button">Word Count</string>
+    <string name="Hint">Type words here...</string>
+</resources>
