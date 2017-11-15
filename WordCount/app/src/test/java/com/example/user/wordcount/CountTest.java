@@ -1,5 +1,7 @@
 package com.example.user.wordcount;
 
+import com.example.user.wordcount.models.Counter;
+
 import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;

@@ -3,4 +3,10 @@
     <string name="Text_to_count">I have how many words?</string>
     <string name="Button">Word Count</string>
     <string name="Hint">Type words here...</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="About">About Us</string>
+    <string name="AboutText1">My name is Zack, Here\'s an App I\'ve created just for the sole purpose of being about to count how many words you have in an inputed sentence! Enjoy!</string>
+    <string name="Settings">Settings</string>
+    <string name="Featuresoon">Feature coming soon...</string>
 </resources>
